@@ -1,0 +1,4 @@
+if SKiT_learns_code
+  print("money")
+else
+  print("nomoney")
